@@ -5,4 +5,4 @@ Com uma equipe multidisciplinar, a ITeam proporciona uma área de Serviços Gere
 
 Espaço para a divulgação de vagas na área de tecnologia via issues do Github.
 
-Vagas disponíveis em https:https://github.com/ITeam-oportunidades/VAGAS/issues
+Vagas disponíveis em https://github.com/ITeam-oportunidades/VAGAS/issues
