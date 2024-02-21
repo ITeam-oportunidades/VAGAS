@@ -4,5 +4,8 @@ Reunimos capital intelectual especializado por profissionais experientes e capac
 Com uma equipe multidisciplinar, a ITeam proporciona uma área de Serviços Gerenciáveis como Projetos SAP, Fábrica de Software, Fábrica de Soluções e Sustentação. Neste modelo proporcionamos Sustentação, Melhorias e Desenvolvimentos de aplicação de forma integrada.
 
 Espaço para a divulgação de vagas da empresa ITeam.
+Conheça um pouco mais sobre a Iteam através do site: https://www.iteam.inf.br/
 
-Vagas disponíveis em https://github.com/ITeam-oportunidades/VAGAS/issues
+Consulte ás vagas disponíveis em https://github.com/ITeam-oportunidades/VAGAS/issues
+
+Caso não tenham vagas aderentes ao seu perfil, envie o currículo atualizado para rhiteam@iteam.inf.br e assim que surgir novas oportunidades entraremos em contato!
